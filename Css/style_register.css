@@ -1,0 +1,83 @@
+*{
+    margin: 10px;
+    padding: 10px;
+}
+
+body{
+    background: url(../Image/wave.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    font-family: 'Open Sans', sans-serif;
+}
+
+.container{
+    width: 900px;
+    margin: 10% auto;
+}
+
+.login-section{
+    background-color: #2196f34d;
+    padding: 20px;
+}
+
+.login-section h2{
+    text-align: center;
+    color: moccasin;
+    margin: 10px 0px,
+}
+
+.birth-date{
+    width: 40%;
+    height: 25px;
+    padding-left: 6px;
+    font-size: 20px;
+}
+
+.email-address{
+   width: 44.5%;
+    height: 25px;
+    padding-left: 6px;
+    margin-bottom: 25px;
+    font-size: 20px;
+}
+
+.secret-question{
+    width: 90%;
+    height: 25px;
+    padding-left: 6px;
+    margin-bottom: 25px;
+    font-size: 20px;
+}
+
+.pass{
+    width: 40%;
+    height: 25px;
+    padding-left: 6px;
+    font-size: 20px;
+}
+
+.c_pass{
+   width: 44.5%;
+    height: 25px;
+    padding-left: 6px;
+    margin-bottom: 25px;
+    font-size: 20px;
+}
+
+.form-control{
+    width: 90%;
+    height: 25px;
+    padding-left: 6px;
+    margin-bottom: 25px;
+    font-size: 20px;
+}
+
+.submit-btn{
+    background-color: darkcyan;
+    color: ghostwhite;
+    padding: 8px 20px;
+    margin: 0 auto;
+    display: block;
+    border: none;
+    box-shadow: 1px 6px 7px lightslategrey;
+}

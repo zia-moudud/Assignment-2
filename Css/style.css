@@ -1,0 +1,66 @@
+*{
+    margin: 10px;
+    padding: 10px;
+}
+
+body{
+    background: url(../Image/road.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    font-family: 'Roboto', sans-serif;
+}
+
+a{
+    text-decoration: none;
+}
+
+.container{
+    width: 600px;
+    margin: 10% auto;
+}
+
+.login-section{
+    background-color: #14e1ad80;
+    padding: 20px;
+}
+
+.login-section img{
+    width: 130px;
+    margin: 0 auto;
+    display: block;
+}
+
+.login-section h2{
+    text-align: center;
+    color: darkred;
+    font-size: 30px;
+    margin: 10px 0px,
+}
+
+.form-control{
+    width: 90%;
+    height: 25px;
+    padding-left: 6px;
+    margin-bottom: 25px;
+    font-size: 20px;
+}
+
+.submit-btn{
+    background-color: chocolate;
+    color: ghostwhite;
+    padding: 8px 20px;
+    margin: 0 auto;
+    display: block;
+    border: none;
+    box-shadow: 1px 6px 7px antiquewhite;
+}
+
+.link{
+    text-align: left;
+    font-size: 25px;
+}
+
+.link a{
+    color: darkmagenta;
+    font-weight: 700;
+}
